@@ -29,7 +29,7 @@ class Echange
     private $date;
     
     /**
-     * @var Joueur
+     * @var tgoudouneix\RGScoreBundle\Entity\Joueur
      * 
      * @ORM\ManyToOne(targetEntity="tgoudouneix\RGScoreBundle\Entity\Joueur")
      * @ORM\JoinColumn(nullable=false)
