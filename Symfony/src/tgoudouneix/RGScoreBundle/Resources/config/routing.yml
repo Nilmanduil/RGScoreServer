@@ -1,0 +1,3 @@
+tgoudouneix_rg_score_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: tgoudouneixRGScoreBundle:Default:index }

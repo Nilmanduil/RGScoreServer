@@ -1,3 +1,7 @@
+tgoudouneix_rg_score:
+    resource: "@tgoudouneixRGScoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
 NelmioApiDocBundle:
   resource: "@NelmioApiDocBundle/Resources/config/routing.yml"
   prefix:   /api/doc
